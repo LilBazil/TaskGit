@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\CATS1\bin\Debug\CATS1.exe.config
+C:\Users\USER\source\repos\CATS1\bin\Debug\CATS1.exe
+C:\Users\USER\source\repos\CATS1\bin\Debug\CATS1.pdb
+C:\Users\USER\source\repos\CATS1\obj\Debug\CATS1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CATS1\obj\Debug\CATS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\CATS1\obj\Debug\CATS1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CATS1\obj\Debug\CATS1.exe
+C:\Users\USER\source\repos\CATS1\obj\Debug\CATS1.pdb
